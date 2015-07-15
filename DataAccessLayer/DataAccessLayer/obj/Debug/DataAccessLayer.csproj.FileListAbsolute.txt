@@ -1,0 +1,5 @@
+E:\Angular Excersices\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Angular Excersices\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Angular Excersices\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Angular Excersices\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Angular Excersices\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
